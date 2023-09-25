@@ -6,19 +6,19 @@ Welcome to the "Deep Learning" repository! This repository contains Python imple
 
 1. [Introduction](#introduction)
 2. [Basic Deep Learning](#basic-deep-learning)
-    - [Perceptron](#perceptron)
-    - [Multi-Layer Perceptron (MLP)](#multi-layer-perceptron-mlp)
-    - [Multi-Class Classification using TensorFlow](#multi-class-classification-using-tensorflow)
-    - [Linear Regression in Neural Networks](#linear-regression-in-neural-networks)
-    - [Logistic Regression in Neural Networks](#logistic-regression-in-neural-networks)
+    - [Perceptron](1.Perceptron.ipynb)
+    - [Multi-Layer Perceptron (MLP)](2.Multilayer_perceptron.ipynb)
+    - [Multi-Class Classification using TensorFlow](3.Multiclass_Classification_using_Tensorflow.ipynb)
+    - [Linear Regression in Neural Networks](4.Linear_Regression.ipynb)
+    - [Logistic Regression in Neural Networks](5.Logistic_Regression.ipynb)
 3. [Advanced Deep Learning](#advanced-deep-learning)
-    - [Regularization in Neural Networks](#regularization-in-neural-networks)
-    - [Image Classification using Convolutional Neural Networks (CNN)](#image-classification-using-convolutional-neural-networks-cnn)
-    - [Using Pre-trained Model (e.g., ResNet)](#using-pre-trained-model-e.g.-resnet)
-    - [Text Classification with Recurrent Neural Networks (RNN)](#text-classification-with-recurrent-neural-networks-rnn)
-    - [Text Classification with Long Short-Term Memory (LSTM)](#text-classification-with-long-short-term-memory-lstm)
-    - [Autoencoders for Image Noise Reduction](#autoencoders-for-image-noise-reduction)
-    - [Object Detection](#object-detection)
+    - [Regularization in Neural Networks](6.Regularization.ipynb)
+    - [Image Classification using Convolutional Neural Networks (CNN)](7.Image_classification.ipynb)
+    - [Using Pre-trained Model](8.ResNet.ipynb)
+    - [Text Classification with Recurrent Neural Networks (RNN)](9.RNN.ipynb)
+    - [Text Classification with Long Short-Term Memory (LSTM)](10.LSTM.ipynb)
+    - [Autoencoders for Image Noise Reduction](11.Auto_encoders.ipynb)
+    - [Object Detection](12.Objecct_detection.ipynb)
 
 ## Introduction
 
@@ -56,7 +56,7 @@ Regularization techniques are applied to neural networks to prevent overfitting.
 
 Convolutional Neural Networks (CNNs) are used for image classification tasks.
 
-### Using Pre-trained Model (e.g., ResNet)
+### Using Pre-trained Model (ResNet)
 
 Learn how to utilize pre-trained models like ResNet for various tasks.
 
