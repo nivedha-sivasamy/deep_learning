@@ -74,4 +74,4 @@ Autoencoders are used to reduce noise in images.
 
 ### Object Detection
 
-Explore object detection techniques within deep learning.
+Explore object detection techniques within deep learning, using cvlib object detection.
